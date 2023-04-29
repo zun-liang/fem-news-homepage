@@ -60,7 +60,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/news-homepage-project-created-using-reactjs-and-vite-PL3Lu83gXK)
 - Live Site URL: [here](https://zun-liang.github.io/news-homepage/)
 
 ## My process
