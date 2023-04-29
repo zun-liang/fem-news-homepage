@@ -48,14 +48,6 @@ Users should be able to:
                 width="300px" />
         </td>
     </tr>
-    <tr>
-        <td>
-            <img 
-                src=""
-                alt=""
-                width="300px" />
-        </td>
-    </tr>
 </table>
 
 ### Links
