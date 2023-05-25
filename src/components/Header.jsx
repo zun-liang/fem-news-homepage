@@ -4,22 +4,14 @@ import IconMenu from "../assets/images/icon-menu.svg"
 import IconMenuClose from "../assets/images/icon-menu-close.svg"
 import Navbar from "./Navbar"
 
-function Header() {
+const Header = () => {
     const [menu, setMenu] = useState(true)
-    function handleMenu() {
-        setMenu(prev => !prev)
-    }
-
-    function handleClick() {
-        setMenu(true)
-    }
-
+    const handleMenu = () => setMenu(prev => !prev)
+    const handleClick = () => setMenu(true)
     const [screenWidth, setScreenWidth] = useState(window.innerWidth)
 
     useEffect(() => {
-        function handleResize() {
-            setScreenWidth(window.innerWidth)
-        }
+        const handleResize = () => setScreenWidth(window.innerWidth)
         window.addEventListener("resize", handleResize)
     }, [screenWidth])
 
