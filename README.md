@@ -1,6 +1,6 @@
 # Frontend Mentor - News homepage solution
 
-This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -31,11 +31,11 @@ Users should be able to:
     <tr>
         <td>
             <img 
-                src="./src/screenshots/screenshot_mobile.png"
+                src="./public/screenshots/screenshot_mobile.png"
                 alt="mobile preview"
                 width="150px" />
             <img 
-                src="./src/screenshots/screenshot_mobile_nav.png"
+                src="./public/screenshots/screenshot_mobile_nav.png"
                 alt="mobile menu preview"
                 width="150px" />
         </td>
@@ -43,7 +43,7 @@ Users should be able to:
     <tr>
         <td>
             <img 
-                src="./src/screenshots/screenshot_desktop.png"
+                src="./public/screenshots/screenshot_desktop.png"
                 alt="desktop preview"
                 width="300px" />
         </td>
@@ -66,11 +66,9 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
-
 ### What I learned
 
 - useEffect
-
 
 ### Continued development
 
